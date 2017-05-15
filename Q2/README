@@ -1,0 +1,3 @@
+BinCoef.py is the master file for this question
+Pascals_Triangle.txt contains the index 0-20 Pascal's Triangle as outputted by the script
+Pexper.png shows the convergence of outcomes of the biased coin experiment. As the number of attempts becomes great, as expected, the spread of outcomes converges.

@@ -1,0 +1,5 @@
+Q5.py is the derivative code
+limbad.py shows the full log-spaced range from 1E-4 to 1E-14. It clearly destabilizes at very low delta
+limgood.py shows the beautiful convergence of the derivative until ~1E-10, but it breaks down and destabilizes at lower delta.
+This is likely due to the roughness of float storage in python destabilizing the results of the subtraction.
+

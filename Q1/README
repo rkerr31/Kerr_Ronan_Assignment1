@@ -1,0 +1,4 @@
+Q1.sh replaces all instances of the given string with an instance of the second given string. i.e.:
+Q1.sh is world > replaces 'is' with 'world' in all files with that string
+files without the "replace" string are not touched. The outputs are in the "replace" directory 
+the command line prompt run was: Q1.sh is world

@@ -1,0 +1,9 @@
+Q3.py is the master python file
+bsl0123.png is the bessel function at m=0,1,2,3
+psf_TS70.png is the Point spread function for my 70mm refractor
+somb_conv.png is the version of the Hubble image of the Sombrero Galaxy (M104) convolved with my psf
+somb_no_conv.png is the original
+Sombrero.fits is the raw fits file
+convolve.py is an experimental code that has been incorporated into Q3.py
+
+
